@@ -1,0 +1,28 @@
+[
+	{
+		"method": "getMessageFromHeaders",
+		"params":[ ],
+		"returns": [ ]
+	},
+	{
+		"method": "getMessage",
+		"params": ["Josh"],
+		"returns": [ ]
+	},
+	{
+		"method": "deleteMessage",
+		"params": ["header"],
+		"returns": true
+	},
+	{
+		"method": "sendMessage",
+		"params": [{ }, "header"],
+		"returns": true
+	},
+	{
+		"method": "login",
+		"params": ["userId"],
+		"returns": true
+	}
+
+]
